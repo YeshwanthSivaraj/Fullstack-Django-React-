@@ -1,0 +1,10 @@
+npx create-react-app blogapi .
+cd blogapi
+npm start
+npm install react-router-dom
+npm install @material-us/core
+pip install django-cors-headers
+
+Info:
+Strrict Mode
+StrictMode is a tool for highlighting potential problems in an application. Like Fragments
